@@ -27,3 +27,12 @@ The chatbot can handle greetings, small talk, and factual questions dynamically.
 | Environment | Virtual Environment (venv) |
 
 ---
+
+### ⚙️ Installation & Setup
+1. Clone the repository
+2. Navigate to the project folder: cd AI-Chatbot-HexSoftwares
+3. Install dependencies: pip install flask wikipedia
+4. Run the app: python app.py
+5. Open your browser and go to: 👉 http://127.0.0.1:5000/
+
+---
