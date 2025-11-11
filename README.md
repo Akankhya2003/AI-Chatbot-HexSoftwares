@@ -36,3 +36,14 @@ The chatbot can handle greetings, small talk, and factual questions dynamically.
 5. Open your browser and go to: 👉 http://127.0.0.1:5000/
 
 ---
+
+### 💡 Learning Outcomes
+1. Understanding Flask routing & API handling
+2. Integrating Wikipedia data dynamically
+3. Implementing a chatbot front-end and backend
+4. Hands-on experience with NLP and AI-based responses
+
+---
+### 🏢 Internship Acknowledgment
+This project was developed as part of the HexSoftwares Internship Program.
+Grateful for the guidance and opportunity provided by HexSoftwares 💼
